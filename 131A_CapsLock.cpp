@@ -3,7 +3,7 @@ using namespace std;
 
 int main(int argc, char const *argv[]) {
 	ios_base::sync_with_stdio(false);
-	
+
 	int l=0;
 	string s;
 	cin >> s;
@@ -29,6 +29,5 @@ int main(int argc, char const *argv[]) {
 	}
 
 	cout << s << endl;
-	
 return 0;
 }
